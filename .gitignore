@@ -1,3 +1,12 @@
+datasets
+experiments/HAT/experiments/*
+results
+tb_logger
+wandb
+tmp
+modify_model.py
+hat/version.py
+
 ### venv template
 # Virtualenv
 # http://iamzed.com/2009/05/07/a-primer-on-virtualenv/

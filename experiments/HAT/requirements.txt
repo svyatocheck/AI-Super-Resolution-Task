@@ -1,0 +1,16 @@
+addict
+future
+numpy
+opencv-python
+Pillow
+pyyaml
+requests
+scikit-image
+scipy
+timm
+einops
+torchvision
+hdf5storage
+ninja
+lmdb
+basicsr==1.3.4.9
